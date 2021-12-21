@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 - 🔭 I’m currently working on <a href="https://geniebook.com/"> Geniebook </a> 
-- 📫 How to reach me:  <a href=" https://www.linkedin.com/in/muhammad-syafrizal-1abb70120/"> LinkedIn </a> 
+- 📫 How to reach me:  <a href="https://www.linkedin.com/in/muhammad-syafrizal-1abb70120/"> LinkedIn </a> 
 
 ### Github Stats
 
