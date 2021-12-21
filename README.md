@@ -19,5 +19,4 @@ Here are some ideas to get you started:
 
 ### Github Stats
 
-![Syafrizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=syafrizal&show_icons=true&theme=tokyonight)
-
+![Syafrizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikaru19&show_icons=true&count_private=true&theme=tokyonight)
