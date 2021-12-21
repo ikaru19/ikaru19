@@ -14,5 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+🔭 I’m currently working on <a href="https://geniebook.com/"> Geniebook </a> 
+📫 How to reach me:  <a href=" https://www.linkedin.com/in/muhammad-syafrizal-1abb70120/"> LinkedIn </a> 
+![Syafrizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=syafrizal&show_icons=true&theme=tokyonight)
 
-[![Syafrizal's GitHub stats](https://github-readme-stats.vercel.app/api?username=ikaru19)](https://github.com/ikaru19/github-readme-stats)
