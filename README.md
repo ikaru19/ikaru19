@@ -10,7 +10,6 @@
 - 🤖 **AI Orchestration:** Crafting multi-agent systems, prompt engineering pipelines, & LLM evaluation workflows (Promptfoo, DSPy, Dify).
 - 📱 **Mobile Crafting:** Native iOS & Android development with seamless user experience.
 - 🛠️ **Hardware & Tinkering:** Building custom ESP32 displays, custom gauges, & resurrecting legacy Apple hardware.
-- 📫 **How to reach me:** [LinkedIn](https://www.linkedin.com/in/muhammad-syafrizal-1abb70120/)
 
 ---
 
